@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "firstName": "Kain",
+    "lastName": "Coulthard",
+    "position": "Business Development",
+    "hireDate": "4/21/2020",
+    "salary": 5,
+    "sickLeave": true
+  },
+  {
+    "id": 2,
+    "firstName": "Ninon",
+    "lastName": "Cleere",
+    "position": "Product Management",
+    "hireDate": "6/29/2020",
+    "salary": 93,
+    "sickLeave": true
+  },
+  {
+    "id": 3,
+    "firstName": "Deeyn",
+    "lastName": "Nyssen",
+    "position": "Marketing",
+    "hireDate": "7/1/2020",
+    "salary": 3,
+    "sickLeave": false
+  },
+  {
+    "id": 4,
+    "firstName": "Fedora",
+    "lastName": "Kirsz",
+    "position": "Product Management",
+    "hireDate": "1/9/2020",
+    "salary": 58,
+    "sickLeave": true
+  },
+  {
+    "id": 5,
+    "firstName": "Olivie",
+    "lastName": "Stallen",
+    "position": "Accounting",
+    "hireDate": "9/6/2020",
+    "salary": 27,
+    "sickLeave": false
+  },
+  {
+    "id": 6,
+    "firstName": "Laurent",
+    "lastName": "Akeherst",
+    "position": "Training",
+    "hireDate": "12/16/2019",
+    "salary": 75,
+    "sickLeave": true
+  },
+  {
+    "id": 7,
+    "firstName": "Bard",
+    "lastName": "Spilsbury",
+    "position": "Services",
+    "hireDate": "12/1/2019",
+    "salary": 21,
+    "sickLeave": false
+  },
+  {
+    "id": 8,
+    "firstName": "Hermy",
+    "lastName": "Milthorpe",
+    "position": "Services",
+    "hireDate": "11/6/2020",
+    "salary": 68,
+    "sickLeave": false
+  },
+  {
+    "id": 9,
+    "firstName": "Ambrose",
+    "lastName": "Speedy",
+    "position": "Marketing",
+    "hireDate": "8/17/2020",
+    "salary": 37,
+    "sickLeave": false
+  },
+  {
+    "id": 10,
+    "firstName": "Benoit",
+    "lastName": "Tubby",
+    "position": "Product Management",
+    "hireDate": "5/18/2020",
+    "salary": 53,
+    "sickLeave": false
+  },
+  {
+    "id": 11,
+    "firstName": "Horacio",
+    "lastName": "O'Duane",
+    "position": "Product Management",
+    "hireDate": "12/28/2019",
+    "salary": 22,
+    "sickLeave": false
+  },
+  {
+    "id": 12,
+    "firstName": "Jacquetta",
+    "lastName": "Fronks",
+    "position": "Business Development",
+    "hireDate": "11/13/2020",
+    "salary": 21,
+    "sickLeave": true
+  },
+  {
+    "id": 13,
+    "firstName": "Tades",
+    "lastName": "Binnion",
+    "position": "Business Development",
+    "hireDate": "11/25/2019",
+    "salary": 61,
+    "sickLeave": true
+  },
+  {
+    "id": 14,
+    "firstName": "Kittie",
+    "lastName": "Halso",
+    "position": "Support",
+    "hireDate": "9/29/2020",
+    "salary": 69,
+    "sickLeave": true
+  },
+  {
+    "id": 15,
+    "firstName": "Archer",
+    "lastName": "Dayton",
+    "position": "Product Management",
+    "hireDate": "8/2/2020",
+    "salary": 10,
+    "sickLeave": true
+  }
+]
